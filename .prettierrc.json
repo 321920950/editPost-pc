@@ -1,0 +1,5 @@
+// 配置保存双引号变单引号
+{
+  "singleQuote": true,
+  "semi": false
+}
